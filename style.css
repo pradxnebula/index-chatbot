@@ -97,11 +97,5 @@ body {
   display: none;
   margin-top: -3rem;
   position: absolute;
-  bottom: 9rem;
-}
-
-@media (min-width:786px) {
-    #typingGif {
-    bottom: 10rem;
-    }
+  bottom: 11rem;
 }
