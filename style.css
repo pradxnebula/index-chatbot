@@ -99,3 +99,36 @@ body {
   position: absolute;
   bottom: 11rem;
 }
+
+.widget {
+  display: flex;
+  background: #ffffff;
+  font-size: 15px;
+  padding: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-right: 51px;
+  border-radius: 14px;
+  text-align: left;
+  width: fit-content;
+  border-style: outset;
+  cursor: pointer;
+  margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+#link-img {
+  width: 23px;
+    background: #ffffff;
+    padding: 7px;
+    border-radius: 39%;
+    cursor: pointer;
+}
+
+#widget-text {
+  font-size: 13px;
+  color: #000;
+  cursor: pointer;
+  margin-left: 4px;
+  text-decoration: none;
+}
